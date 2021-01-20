@@ -11,7 +11,7 @@ Scripts develped in C and tested in Ubuntu.
 Script to test the function fork which creates processes from a father process. 
 
 2. Pipes    
-Script to create pipes and send messages between pipes.
+Script to create pipes and send messages between processes through the pipes.
 
 3. Queues   
 Script to send data between processes using queues.
