@@ -4,7 +4,7 @@ Repository created to share code developed for personal projects and courses.
 
 # Description
 
-## C_Linux 
+## C_memory_data_structures
 Scripts develped in C and tested in Ubuntu.  
 
 1. Forks   
